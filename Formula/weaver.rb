@@ -1,8 +1,8 @@
 class Weaver < Formula
   desc "Command-line tool for Weaver"
   homepage "https://github.com/scribd/Weaver"
-  url "https://github.com/scribd/Weaver/archive/0.9.11.tar.gz"
-  sha256 "627d359d3e717e52efdc727df8f0f351f11caa4b89e5307569c2525096d5ff8f"
+  url "https://github.com/scribd/Weaver/archive/0.9.12.tar.gz"
+  sha256 "3d1f4b330297602528c1a240b6873683eb94f2bda67bba959448f0dd49f94418"
 
   depends_on :xcode => ["9.0", :build]
 
